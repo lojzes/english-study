@@ -592,6 +592,80 @@ visual，形容词，“视觉的，视力的”。
 visit，“参观，拜访”，即去看一看。
 revise，“修订；复习”，即再看一遍。
 
+### 2019-01-17
+
+插入语
+
+1.Amphibians can’t produce thermal energy through their metabolic activity.
+翻译：
+
+主语：Amphibians
+       两栖动物
+状语：through their metabolic activity
+        通过它们的新陈代谢活动
+谓语：can’t produce
+       不能产生
+宾语：thermal energy
+        热能
+        
+2.In contrast to mammals and birds, amphibians are unable to produce thermal energy through their metabolic activity, which would allow them to regulate their body temperature independent of the surrounding or ambient temperature. 
+与哺乳动物和鸟类不同，两栖动物不能通过它们的新陈代谢活动产生热能，这种新陈代谢使得它们能够不受到周围环境温度的影响来调节体温。
+翻译：
+
+状语1：In contrast to mammals and birds
+       与哺乳动物和鸟类不同
+主语：amphibians
+       两栖动物
+状语2：through their metabolic activity
+        通过它们的新陈代谢活动
+谓语：are unable to produce 
+       不能产生
+宾语： thermal energy 
+       热能
+插入语：which would allow them to regulate their body temperature independent of the surrounding or ambient temperature
+       这使得它们能够不受到周围环境温度的影响来调节体温
+
+mammal /'mæm(ə)l/
+n. [脊椎] 哺乳动物
+
+
+amphibian /æm'fɪbɪən/
+n. [脊椎] 两栖动物
+
+
+thermal /'θɜːm(ə)l/
+adj. 热的；热量的；保热的
+n. 上升的热气流
+
+metabolic /,metə'bɒlɪk/
+adj. 变化的；新陈代谢的
+
+ambient /'æmbɪənt/
+adj. 周围的；外界的；环绕的
+
+contrast，名词，“差异，差别”；动词，“形成对比，形成对照”。by contrast，“相比之下”。
+contrary，形容词，“相反的，相对的”。on the contrary，“正相反”。
+counter，动词，“反对，对抗”。counter strike，对打，即经典游戏CS——反恐精英。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
