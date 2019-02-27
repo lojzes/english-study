@@ -202,14 +202,24 @@ adj. 生的，未煮过的；未经加工的；原始的；未经整理的；粗
 cocaine 英 /kəʊ'keɪn/
 n. [药] 可卡因
 
+### 2019-01-05
+总结：双宾语+宾语从句、公式的简单造型、双黄蛋+宾语从句、插入语、宾语从句
 
+1.70% of the Android users wanted to "find a better balance" in their tech use.
+翻译：
 
-
-
-
-
-
-
+定语1：of the Android users
+        安卓用户中的
+主语：70%  
+     70%
+谓语： wanted to "find
+       想要找到
+定语2：in their tech use
+      在科技使用方面
+      
+宾：a better balance
+    一个更好的平衡
+ 
 
 
 
