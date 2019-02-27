@@ -410,6 +410,90 @@ line，“线条”。
 lip，“嘴唇”。
 list，“名单，清单”，就是由诸多名称构成的长长的一列。
 
+### 2019-01-11
+双黄蛋
+
+1.The guidance avoids setting screen time limits, but it recommends not using them before bedtime.
+翻译：
+
+句1主：The guidance
+           该指导
+句1谓：avoids
+        避免
+句1宾：setting screen time limits
+        设置屏幕时间限制
+连接词：but
+        但是
+句2主：it
+        它
+句2谓：recommends
+         建议
+句2定：before bedtime.
+         在睡前
+句2宾：not using them  
+       不要使用他们
+       
+2.While the guidance avoids setting screen time limits, it recommends not using them in the hour before bedtime.
+ 
+本句是一个双黄蛋，连接词-while，表示当一件事情发生的同时另一件事情也在发生。
+
+一方面，该指导避免设置屏幕时间限制，另一方面，它建议不要在睡前一小时内使用它们。
+
+翻译：
+连接词：While
+        当...时
+句1主：the guidance
+        该指导
+句1谓：avoids
+       避免
+句1宾：setting screen time limits
+        设置屏幕时间限制
+句2主：it 
+       它
+句2谓：recommends
+        建议
+句2定：in the hour before bedtime
+          在睡前一小时内
+句2宾：not using them
+          不要使用它们
+
+recommend /rekə'mend/
+
+vt. 推荐，介绍；劝告；使受欢迎；托付
+vi. 推荐；建议
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
