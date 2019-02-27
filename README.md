@@ -503,15 +503,51 @@ sank /sæŋk/
 vt. 沉陷（sink的过去式）
 vi. 沉陷（sink的过去式）
 
+### 2019-01-15
+公式的简单造型
 
+1.The creature's burial preserved its skull in detail.
+翻译：
+主语：The creature's burial 
+        该生物的覆盖物
+状语：in detail
+      非常细致地
+谓语：preserved
+      保存了
+宾语：its skull
+      它的头骨
+      
+2.The creature's burial preserved its skull in stunning detail - enabling scientists to digitally reconstruct it.
+翻译：
+主语：The creature's burial
+        该生物的覆盖物
+状1：in stunning detail 
+      以极好的细节
+谓语：preserved
+      保存了
+宾语： its skull
+          它的头骨
+状2：（破折号的伴随状语）enabling scientists to digitally reconstruct it
+      使科学家们得以数字地重建它
 
+burial /'berɪəl/
+n. 埋葬；葬礼；〔某物的〕掩埋
 
+skull /skʌl/
+n. 头盖骨，脑壳
 
+stunning /'stʌnɪŋ/
+adj. 极好的；使人晕倒的；震耳欲聋的
+v. 把…打昏；使震耳欲聋；使大吃一惊（stun的ing形式）
 
+前缀re——重新、再次，比如：
 
-
-
-
+reassure：re（重新、再次）+ assure（确保），“使安心，使放心”。
+rebirth：re（重新、再次）+ birth（出生），“复兴；复活，重生”。
+rebuild：re（重新、再次）+ build（建造），“重建”。
+reconsider：re（重新、再次）+ consider（考虑），“重新考虑”。
+reconstruct：re（重新、再次）+ construct（建造），“重建”。
+recount：re（重新、再次）+ count（计算），“重新计算；叙述”。
 
 
 
