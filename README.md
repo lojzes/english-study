@@ -549,17 +549,48 @@ reconsider：re（重新、再次）+ consider（考虑），“重新考虑”�
 reconstruct：re（重新、再次）+ construct（建造），“重建”。
 recount：re（重新、再次）+ count（计算），“重新计算；叙述”。
 
+### 2019-01-16
+公式的简单造型
 
+1.Perceptions of the visible world were greatly changed.
+翻译：
 
+定语：of the visible world
+         对可见世界的
+主语：Perceptions
+          认知
+谓语：were  greatly changed
+        极大地改变了
+        
+2.Perceptions of the visible world were greatly altered by the invention of photography in the middle of the nineteenth century.
 
+翻译：
 
+定语：of the visible world
+         对可见世界的
+主语：Perceptions
+          认知
+状语：by the invention of photography in the middle of the nineteenth century
+      被19世纪中期摄影技术的发明
+谓语：were  greatly changed
+        被极大地改变了
 
+perception /pə'sepʃ(ə)n/
+n. 知觉；[生理] 感觉；看法；洞察力；获取
 
+visible /ˈvɪzəbl/
+adj. 明显的；看得见的；现有的；可得到的
 
+photography /fə'tɒgrəfɪ/
+n. 摄影；摄影术
 
+词根vis——视觉
 
-
-
+vision，“视力，视觉”。
+visible，形容词，“可见的，看得见的”。
+visual，形容词，“视觉的，视力的”。
+visit，“参观，拜访”，即去看一看。
+revise，“修订；复习”，即再看一遍。
 
 
 
