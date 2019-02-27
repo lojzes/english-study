@@ -353,7 +353,62 @@ compile：com（共同、一起）+ pile（堆积），“汇编，编撰”。
 consist：con（共同、一起）+ sist（可理解为sit坐），“由...构成”，注意用主动语态。
 conduct：con（共同、一起）+ duct（引导），“执行，实施”。
 
+### 2019-01-10
 
+插入语+同位语
+
+1.Screen use for children is harmful in itself, leading doctors say.
+
+翻译：
+
+插入语：leading doctors say
+         顶尖的医生们称
+定语： for children        
+        孩子们的  
+主语：Screen use
+       屏幕使用
+状语：in itself
+       本身
+谓语：is
+      是
+宾语：harmful
+      有害的
+
+2.There is little evidence screen use for children is harmful in itself, guidance from leading paediatricians says.
+
+来自顶尖儿科医生们的指导称，几乎没有证据表明孩子们的屏幕使用本身是有害的。
+
+翻译：
+插入语：guidance from leading paediatricians says
+        来自顶尖儿科医生们的指导称
+无主结构：There 
+           /
+谓语：  is
+       有
+宾语：little evidence
+      几乎没有证据
+同从定：for children
+        孩子们的
+同从主：screen use
+        屏幕使用
+同从状：in itself
+        本身
+同从谓：is
+       是
+同从宾：harmful
+        有害的
+
+paediatrician /‚piːdiə'trɪʃən/
+n. 儿科专家；小儿科医师
+
+L词的基本逻辑内涵来自线条。中文的绞丝旁——纟，其本意就是模仿线条。
+
+lane，“小路，路径；车道，航道，轨道”，道路呈线条状。
+lead，“带领”，就是走在一列队伍的前面；leading，形容词，“领导的，顶尖的”。
+league，“联盟”，就是站成一条线。
+line，“线条”。
+lip，“嘴唇”。
+list，“名单，清单”，就是由诸多名称构成的长长的一列。
 
 
 
