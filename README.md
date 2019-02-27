@@ -647,13 +647,31 @@ contrast，名词，“差异，差别”；动词，“形成对比，形成对
 contrary，形容词，“相反的，相对的”。on the contrary，“正相反”。
 counter，动词，“反对，对抗”。counter strike，对打，即经典游戏CS——反恐精英。
 
+### 2019-01-18
+双黄蛋
 
+1.Wednesday's letter from Tim Cook was a bombshell.
 
+翻译：
 
+定语：from Tim Cook 
+       来自蒂姆库克的
+主语：Wednesday's letter
+       周三的一封信
+谓语：was
+      是
+宾语：a bombshell
+      一枚重磅炸弹
 
+2.It is a company that is always tight-lipped about its finances between its quarterly results, so Wednesday's letter from Tim Cook warning Apple investors that the outlook had suddenly darkened was a bombshell which rocked the market.
 
+翻译：
 
+主语：It is a company that
 
+谓语：is
+
+宾语：
 
 
 
