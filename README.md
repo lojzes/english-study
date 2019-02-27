@@ -462,12 +462,46 @@ recommend /rekə'mend/
 vt. 推荐，介绍；劝告；使受欢迎；托付
 vi. 推荐；建议
 
+### 2019-01-14
+
+谓语并列
+1.About 200 million years ago in Warwickshire, a dolphin-like reptile died.
+翻译：
+
+状语：（包括一个时间状语、一个地点状语）About 200 million years ago in Warwickshire
+                                          约2亿年前在沃里
+主语：a dolphin-like reptile
+       一个像海豚的爬行动物
+谓语：died
+      死亡
+
+2.Some 200 million years ago in what is now Warwickshire, a dolphin-like reptile died and sank to the bottom of the sea.
+翻译：
+
+状语：（包括一个时间状语、一个地点状语）Some 200 million years ago in what is now Warwickshire
+       约2亿年前在今天是沃里克郡的地方
+主语：a dolphin-like reptile 
+        一个像海豚的爬行动物
+谓语1： died 
+        死亡
+连接词：and 
+       并且
+谓语2：sank 
+       下沉
+状语2：to the bottom of the sea        
+              到了海底
 
 
+dolphin /'dɒlfɪn/
+n. 海豚
 
+reptile /'reptaɪl/
+adj. 爬虫类的；卑鄙的
+n. 爬行动物；卑鄙的人
 
-
-
+sank /sæŋk/
+vt. 沉陷（sink的过去式）
+vi. 沉陷（sink的过去式）
 
 
 
