@@ -118,11 +118,44 @@ curious，“好奇的”，即围着某人或某物看，名词是curiosity。
 criticize，“批评”，即围着某人指指点点。        
       
       
+### 2019-01-03
+插入语
 
+1.Three British tourists, including a young child, have died after their vehicle crashed.
 
+翻译：
+主语：Three British tourists
+      3名英国游客
+插入语：including a young child     
+       包括一名年幼儿童
+状语： after their vehicle crashed     
+      发生汽车碰撞事故后
+谓语：  have died        
+        死亡
 
+2.Three British tourists, including a young child, have died after their vehicle crashed while crossing a bridge in Iceland.
 
+翻译：
+主语：Three British tourists
+      3名英国游客
+插入语：including a young child     
+       包括一名年幼儿童
+状语： after their vehicle crashed while crossing a bridge in Iceland
+      在冰岛过桥时发生汽车碰撞事故后
+谓语：  have died        
+        死亡
 
+vehicle /viːɪkəl/
+n. [车辆] 车辆；工具；交通工具；运载工具；传播媒介；媒介物
+
+T词逻辑——过程，比如：tour，“旅游”，从一个地方到另一个地方就是一种过程；tourist，“旅客”。
+
+前缀tele，也与T词过程逻辑有关，表示远距离、远程的。
+telescope：tele（远距离的）+ scope（范围），能看到远距离的范围，即“望远镜”。
+telegraph：tele（远距离的）+ graph（写、画），远距离地写，即“电报”。
+teleconference：tele（远距离的）+ conference（会议），远距离的会议，即“远程会议”。
+telephone：tele（远距离的）+ phone（声音），远距离能听到声音，即“电话”。
+television：tele（远距离的）+ vision（看），远距离地看，即“电视”。
 
 
 
