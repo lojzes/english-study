@@ -304,6 +304,56 @@ vacuum，“真空，真空的”。
 vain，“徒劳的”，即竹篮打水一场空。
 vanish，”消失”。
 
+#### 2019-01-09
+
+插入语
+
+1.Petroleum is defined as a naturally occurring substance. 
+
+翻译：
+主语：Petroleum
+       石油
+谓语：is defined as
+       被定义为
+宾语: a naturally occurring substance.
+        一种天然物质
+
+2.Petroleum is defined as a gaseous, liquid, and semisolid naturally occurring substance that consists chiefly of hydrocarbons (chemical compounds of carbon and hydrogen). 
+
+翻译：
+主语：Petroleum
+      石油
+谓语：is defined as
+        被定义为      
+定语：that consists chiefly of hydrocarbons 
+      主要由碳氢化合物构成的   
+插入语：chemical compounds of carbon and hydrogen      
+        碳和氢的化合物      
+宾语： a gaseous, liquid, and semisolid naturally occurring substance 
+          一种气态、液态和半固态的天然物质
+
+petroleum /pə'trəʊlɪəm/
+n. 石油
+
+gaseous /'ɡæsiəs/
+adj. 气态的，气体的；无实质的
+
+semisolid /,semɪ'sɒlɪd/
+adj. 半固体的
+n. 半固体
+
+hydrocarbons /‚haɪdrə'kɑːbən/
+n. [有化] 碳氢化合物
+
+前缀com/con——共同、一起
+
+compound：com（共同、一起）+ pound（放置），“化合物；建筑群”。
+commute：com（共同、一起）+ mute（改变，交换），“通勤”。
+compile：com（共同、一起）+ pile（堆积），“汇编，编撰”。
+consist：con（共同、一起）+ sist（可理解为sit坐），“由...构成”，注意用主动语态。
+conduct：con（共同、一起）+ duct（引导），“执行，实施”。
+
+
 
 
 
