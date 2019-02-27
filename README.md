@@ -157,6 +157,65 @@ teleconference：tele（远距离的）+ conference（会议），远距离的�
 telephone：tele（远距离的）+ phone（声音），远距离能听到声音，即“电话”。
 television：tele（远距离的）+ vision（看），远距离地看，即“电视”。
 
+### 2019-01-04
+宾语从句
+
+1.He is "deeply concerned" about the increased production of coca leaf in Colombia.
+
+翻译：
+主语：He
+     他 
+状语（由介词 about/of/in断开，进行内部倒序）：about the increased production of coca leaf in Colombia
+     对哥伦比亚可可叶持续上涨的量
+谓语：is
+     是
+宾语： deeply concerned
+      非常担忧的
+2.US Secretary of State Mike Pompeo says he is "deeply concerned" about the increased production of coca leaf, the raw material for cocaine, in Colombia.
+
+美国国务卿迈克·蓬佩奥称他对哥伦比亚，可卡因的原材料，可可叶的持续上升的产量非常担忧
+
+翻译：
+主语：US Secretary of State Mike Pompeo 
+      美国国务卿迈克.蓬佩奥
+谓语：says
+      说
+宾从主：he
+       他
+宾从状2：in Colombia      
+         在哥伦比亚
+插入语：the raw material for cocaine
+        可卡因的原材料
+宾从状1：about the increased production of coca leaf
+        对可可叶的持续上升的常量
+宾从谓：is
+       是
+宾从宾：deeply concerned      
+       非常担忧的
+
+secretary 英 /ˈsekrətrɪ/
+n. 秘书；书记；部长；大臣
+
+raw 英 /rɔː/
+adj. 生的，未煮过的；未经加工的；原始的；未经整理的；粗犷的；朴实自然的
+
+cocaine 英 /kəʊ'keɪn/
+n. [药] 可卡因
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
