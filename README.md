@@ -220,18 +220,89 @@ n. [药] 可卡因
 宾：a better balance
     一个更好的平衡
  
+ ### 2019-01-07
+ 公式的简单造型
+ 
+ 1.Colombia has vowed to strengthen its coca eradication programme.
+ 
+ 翻译：
+ 
+ 主语：Colombia
+       格伦毕业
+ 谓语：has vowed to strengthen
+        已经发誓要加强
+ 宾语： its coca eradication programme
+        他们的可可根除计划
 
+2.Colombia has already vowed to step up its coca eradication programme.
+ 主语：Colombia
+       格伦毕业
+ 谓语：has vowed to strengthen
+       已经发誓要继续推进
+ 宾语：its coca eradication programme
+       他们的可可根除计划
 
+vow /vaʊ/
 
+n. 发誓；誓言；许愿
+vt. 发誓；郑重宣告
+vi. 发誓；郑重宣告
 
+eradication /ɪ,rædɪ'keɪʃ(ə)n/
+n. 消灭，扑灭；根除
 
+eradicate，“清除”，字母E逻辑——出去、向外，词根rad——树根、根部。
+eradicate，就是从根部清除、去除掉，名词是eradication。
+近义词uproot：root——树根，uproot——从根部拔起、彻底斩除。
 
+### 2019-01-08
+ 公式的简单造型
+ 
+1.Britain looked toward its reserves of coal as an alternative to wood.
 
+翻译：
+主语：Britain
+       英国
+谓语：looked toward
+      看向（即开始考虑）
+定语：of coal as an alternative to wood
+       作为木材的替代品的煤炭的
+宾语：its reserves
+      储备
 
+2.As this early energy crisis grew worse, Britain looked toward its abundant and widely scattered reserves of coal as an alternative to its vanishing wood.
 
+翻译：
 
+状语：As this early energy crisis grew worse
+     随着早期能源危机愈演愈烈
+主语：Britain
+       英国
+谓语：looked toward
+      看向（即开始考虑）
+定语：of coal as an alternative to its vanishing wood
+      作为日渐消失的木炭的替代品的煤炭的
+宾语：its abundant and widely scattered reserves  
+       丰富且分布广泛的储备
+ 
+crisis /'kraɪsɪs/
+n. 危机；危险期；决定性时刻
 
+scattered /'skætəd/
+adj. 分散的；散乱的
 
+vanish /'vænɪʃ/
+vi. 消失；突然不见；成为零
+vt. 使不见，使消失
+
+词根va——空的，比如：
+
+vacancy，“空缺，空位，空白”，形容词是vacant，“空的，空缺的”。
+vacation，“假期”，即空出来的时间。
+vacuous，“空洞的”。
+vacuum，“真空，真空的”。
+vain，“徒劳的”，即竹篮打水一场空。
+vanish，”消失”。
 
 
 
