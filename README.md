@@ -1049,6 +1049,64 @@ n. 投球
 shutdown ['ʃʌtdaʊn]
 n. 关机；停工；关门；停播
 
+### 2019-01-29
+双黄蛋 + 宾语从句
+
+1.Although he had initially said the speech should be "on time, on schedule, and very importantly, on location", he could not deliver the speech on his pledge.
+尽管他最初表示，演讲应该“按时、按计划，而且非常重要的是，按地点举行”，但是他不能按他所承诺的那样去发表这个演讲了。
+翻译：
+状语1：Although he had initially said the speech should be "on time, on schedule, and very importantly, on location"
+        尽管他最初表示，演讲应该“按时、按计划，而且非常重要的是，按地点举行”
+主语：he
+      他
+状语2：on his pledge
+       按他所承诺的
+谓语：could not deliver
+      不能发表
+宾语：the speech
+         这个演讲
+
+2.Having initially said the speech should be "on time, on schedule, and very importantly, on location", he conceded overnight that he could not deliver on his pledge.
+最初表示，演讲应该“按时、按计划，而且非常重要的是，按地点举行”，但是他突然让步说他不能履行他的承诺
+翻译：
+状语：Having initially said the speech should be "on time, on schedule, and very importantly, on location"
+   尽管他最初表示，演讲应该“按时、按计划，而且非常重要的是，按地点举行”
+主语：he
+     他
+谓语：conceded overnight
+       突然让步说
+宾从主：that he
+        他
+宾从谓：could not deliver on
+        不能履行
+宾从宾：his pledge
+       他的承诺
+
+concede /kən'siːd/
+vt. 承认；退让；给予，容许
+vi. 让步
+
+pledge /pledʒ/
+n. 保证，誓言；抵押；抵押品，典当物
+vt. 保证，许诺；用……抵押；举杯祝……健康
+
+词根cede表示走，比如：
+
+concede：con（共同）+ cede（走），你也走一步，我也走一步，所以就是“让步”。
+precede：pre（提前）+ cede（走），“领先、先于…”。
+recede：re（往回）+ cede（走），“消退”。
+secede：se（分开）+ cede（走），“退出、脱离”。
+
+
+
+
+
+
+
+
+
+
+
 
 
 
