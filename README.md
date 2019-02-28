@@ -1098,6 +1098,122 @@ recede：re（往回）+ cede（走），“消退”。
 secede：se（分开）+ cede（走），“退出、脱离”。
 
 
+### 2019-01-30
+公式的简单造型
+
+1.Noodle company apologises for changing a mix-raced tennis star's skin tone.
+
+翻译：
+
+主语：Noodle company 
+       面条公司
+状语：for changing a mix-raced tennis star's skin tone
+     因改变了一位混血网球明星的肤色
+谓语：apologises  
+       道歉
+
+2.Noodle company apologises for 'white-washing' tennis star.
+
+翻译：
+主语：Noodle company 
+       面条公司
+状语：for 'white-washing' tennis star
+     因改变了一位混血网球明星的肤色
+谓语：apologises  
+       道歉
+
+apologise /ə'pɒlədʒaɪz/
+vi. 道歉（等于apologize）
+
+tennis /'tenɪs/
+n. 网球（运动）
+
+### 2019-01-31
+同位语
+
+1.The US Justice Department has filed criminal charges against Huawei and Meng Wanzhou.
+
+主语：The US Justice Department
+      美国司法部门 
+谓语：has filed
+      提出了
+定语：against Huawei and Meng Wanzhou
+        针对华为及孟晚舟的
+宾语：criminal charges
+       刑事指控
+
+2.标题：US files charges against China's Huawei and CFO Meng Wanzhou
+主语：US
+     美国
+谓语：files
+      提出
+定语：against China's Huawei and CFO Meng Wanzhou
+        针对中国华为及CFO孟晚舟的
+宾语：charges
+       指控
+
+正文：The US Justice Department has filed a host of criminal charges against Chinese telecoms giant Huawei and its chief financial officer, Meng Wanzhou. The charges against the world's second largest smartphone maker include accusations of bank fraud, obstruction of justice and theft of technology.
+
+标题：美国提出针对中国华为及其CFO孟晚舟的指控 
+正文：美国司法部门提出了一系列针对中国电信巨头华为及其首席财务官孟晚舟的刑事指控。这些针对世界第二大智能手机制造商的指控包括银行欺诈、妨碍司法以及技术盗窃指控。
+
+句1主语：The US Justice Department 
+          美国司法部门
+句1谓语：has filed
+          提出了
+句1定语：against Chinese telecoms giant Huawei and its chief financial officer
+               针对中国电信巨头华为及其是首席财务官的
+句1同谓语：（与定语从句中的首席财务官是同一人）Meng Wanzhou
+                                          孟晚舟
+句1宾语： a host of criminal charges 
+             一系列刑事指控
+句2定1：against the world's second largest smartphone maker
+          针对世界第二大智能手机制造商的
+句2主语：The charges 
+           这些指控
+句2谓语：include
+          包括
+句2定2：of bank fraud, obstruction of justice and theft of technology
+             银行诈骗、妨碍司法以及技术盗窃的
+句2宾语：accusations
+         指控
+         
+file /faɪl/
+
+n. 文件；档案；文件夹；锉刀
+vt. 提出；锉；琢磨；把…归档
+vi. 列队行进；用锉刀锉
+
+telecom /'telɪkɒm/
+n. 电信，远距通信；电讯
+
+fraud /frɔːd/
+n. 欺骗；骗子；诡计
+
+obstruction /əb'strʌkʃ(ə)n/
+n. 障碍；阻碍；妨碍
+
+charge，“指控、控告”，来自C词逻辑——包围、围绕，即围绕着某人指指点点。类似逻辑词如：
+care，“关心”，即把某人围在中间照顾、呵护。
+curious，“好奇的”，即围着….转圈看。
+criticize，“批评、指责”，和 charge 逻辑类似，也是围绕着某人指指点点。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
