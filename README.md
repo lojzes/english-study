@@ -665,32 +665,43 @@ counter，动词，“反对，对抗”。counter strike，对打，即经典�
 
 2.It is a company that is always tight-lipped about its finances between its quarterly results, so Wednesday's letter from Tim Cook warning Apple investors that the outlook had suddenly darkened was a bombshell which rocked the market.
 
+它是一家一直对季度业绩的财务状况守口如瓶的公司，因此，警告苹果投资人前景突然黯淡下来的来自蒂姆•库克的周三的一封信是一颗动摇了市场的重磅炸弹
 翻译：
 
-主语：It is a company that
+句1主：it
+       它
+句1谓：is
+       是
+句1定：that is always tight-lipped about its finances between its quarterly results
+       一直对季度业绩的财务状况守口如瓶的     
+句1宾：a company       
+        一家公司
+连接词：so
+       因此
+       
+句2定：from Tim Cook warning Apple investors that the outlook had suddenly darkened    
+       警告苹果投资人前景突然黯然淡下来的来自蒂姆库克的
+句2主：Wednesday's letter
+        周三的一封信
+句2谓：was
+       是
+句2定：which rocked the market
+        动摇了市场的 
+句2宾：a bombshell
+        一枚重磅炸弹
 
-谓语：is
+quarterly /'kwɔːtəlɪ/
 
-宾语：
+adj. 季度的，按季度的；一年四次的
+adv. 按季度，[农] 一季一次地；纵横四分地
+n. 季刊
 
+bombshell /'bɒmʃel/
+n. 炸弹；突发事件；引起震惊的人或事
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+今天来看两个拟声词：
+bomb：名词，“炸弹”；动词，“轰炸”。
+boom：名词，“繁荣，兴旺；隆隆声”；动词，“繁荣，迅速发展”。
 
 
 
