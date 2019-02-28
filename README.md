@@ -1364,22 +1364,52 @@ adj. 残忍的；惊人的
 ### 2019-02-14
 双黄蛋 + 宾语从句
 
+1.US President Donald Trump has said that a second government shutdown is unlikely.
 
+主语：US President Donald Trump
+       美国总统唐纳德特朗普 
+谓语：has said
+     表示
+宾从主：that a second government shutdown
+         再一次的政府停摆
+宾从谓：is
+       是
+宾从宾：unlikely
+        不可能的
 
+2.US President Donald Trump has said that a second government shutdown is unlikely after lawmakers agreed to a deal to fund the federal government.
+美国总统唐纳德·特朗普表示，再一次的政府停摆是不太可能的在立法者同意资助联邦政府的协议之后
+主语：US President Donald Trump 
+      美国总统唐纳德特朗普 
+谓语：has said
+      表示
+宾从主：that a second government shutdown
+             再一次的政府停摆
+宾从谓：is
+       是
+宾从宾：unlikely
+         不可能的
+宾从状：after lawmakers agreed to a deal to fund the federal government
+         在立法者同意资助联邦政府的协议之后
 
+shutdown /'ʃʌtdaʊn/
+n. 关机；停工；关门；停播
 
+lawmaker /'lɔːmeɪkə/
+n. 立法者
 
+fund /fʌnd/
+n. 基金；资金；存款
+vt. 投资；资助
 
+federal /'fed(ə)r(ə)l/
+adj. 联邦的；同盟的；联邦政府的； 联邦制的
 
+F词逻辑——稳定可靠，相关逻辑词：
 
-
-
-
-
-
-
-
-
+1.financial，“金融的，财政的，财务的”；finance，名词，“财政，金融”。财政金融是社会运转的根基。
+2.found，动词，“创立，创建”；foundation，名词，“根基”；founder，“创始人”。所谓创立即打下稳定的根基。
+3.fund，名词“基金，资金”，动词“提供资金，资助”；fundamental，形容词，“基本的，根本的”。基金、资金是机构运转的根基。
 
 
 
