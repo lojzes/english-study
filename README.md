@@ -1566,15 +1566,25 @@ legation，“使节、公使馆”，地位合法，由法律所派遣。
 legislate，“制定法律、立法”，名词是legislation。
 legitimate，形容词“合法的、正当的”，动词“使合法”。
 
+### 2019-02-20
+谓语并列
 
+1.Any sports fan will know, or at least appreciate, the disappointment.
+任何体育迷都会知道或者至少会理解这种失望
+主语：Any sports fan
+       任何体育迷
+谓语1：will know
+       会知道
+连接词：or
+       或者
+状语：at least
+       至少
+谓语2：appreciate
+         理解
+宾语：the disappointment.
+        失望
 
-
-
-
-
-
-
-
+2.Any sports fan will know, or at least appreciate, the disappointment of going to watch your team only to find that a top player has been left out.
 
 
 
