@@ -1411,15 +1411,50 @@ F词逻辑——稳定可靠，相关逻辑词：
 2.found，动词，“创立，创建”；foundation，名词，“根基”；founder，“创始人”。所谓创立即打下稳定的根基。
 3.fund，名词“基金，资金”，动词“提供资金，资助”；fundamental，形容词，“基本的，根本的”。基金、资金是机构运转的根基。
 
+### 2019-02-15 
+双黄蛋
 
+1.If a big name doesn't play, you can get your money back.
+如果一个大牌不参加比赛了，你就可以拿回你的钱。
+状语1：If a big name doesn't play
+         如果大牌不参加比赛的
+主语：you
+     你
+谓语：can get
+      可以拿到
+状语2：back
+       回来
+宾语：your money 
+       你的钱 
 
+2.A new start-up will insure tickets for sporting events, so that if a big name doesn't play, you can get your money back.
+一个新的初创公司将为体育赛事的门票提供保险，这样的话如果一个大牌不参加比赛了，你就可以拿回你的钱
+句1主语：A new start-up
+         一个新的初创公司
+句1谓语：will insure
+         将提供保险
+句1定语：for sporting events
+          体育赛事的
+句1宾语：tickets
+           门票
+句2状:1：so that if a big name doesn't play
+         这样的话so that if a big name doesn't play
+句2主：you
+       你
+句2谓： can get
+         可以拿到
+句2状语2：back
+          回来
+句2宾：your money
+        你的钱
+        
+start-up /stɑrtʌp/
+n. 启动；初创企业
+adj. 起动阶段的；开始阶段的
 
-
-
-
-
-
-
+insure /ɪn'ʃʊə/
+vt. 确保，保证；给…保险
+vi. 确保；投保
 
 
 
