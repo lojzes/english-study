@@ -703,6 +703,72 @@ n. 炸弹；突发事件；引起震惊的人或事
 bomb：名词，“炸弹”；动词，“轰炸”。
 boom：名词，“繁荣，兴旺；隆隆声”；动词，“繁荣，迅速发展”。
 
+### 2019-01-21
+公式简单造型
+
+1.Some lucky Cathay Pacific customers have got first-class seats at economy prices.
+
+翻译：
+
+主语：Some lucky Cathay Pacific customers
+      一些幸运的国泰航空顾客
+状语：at economy prices
+       以经济舱的价格
+谓语：have got
+       得到了
+宾语：first-class seats
+       头等舱座位
+       
+2.A group of lucky Cathay Pacific customers have scored first-class seats at economy prices, in the second fare blunder by the airline this month.
+
+翻译：
+
+状语1：in the second fare blunder by the airline this month
+       在本月该航空公司差点第二次票价失误中
+主语：A group of lucky Cathay Pacific customers
+      一些幸运的国泰航空顾客
+状语2： at economy prices
+         以经济舱的价格
+谓语：have scored 
+        得到了
+宾语：first-class seats
+       头等舱座位
+
+score /skɔː/
+
+n. 分数；二十；配乐；刻痕
+vt. 获得；评价；划线，刻划；把…记下
+vi. 得分；记分；刻痕
+
+fare /feə/
+vi. 经营；进展；遭遇；过活
+n. 票价；费用；旅客；食物
+
+blunder /'blʌndə/
+vi. 跌跌撞撞地走；犯大错
+vt. 做错
+n. 大错
+
+有关各种费用的表述：
+
+fare：一般指交通费用，比如：taxi fare，“出租车费”。
+freight：大宗货物的运输费用。
+postage：小件货物的邮费，比如信、包裹等。
+tip：给服务人员的小费。
+toll：道路、桥梁的通行费。
+tuition：与教育相关的费用，即学费。
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
