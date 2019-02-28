@@ -1198,30 +1198,87 @@ care，“关心”，即把某人围在中间照顾、呵护。
 curious，“好奇的”，即围着….转圈看。
 criticize，“批评、指责”，和 charge 逻辑类似，也是围绕着某人指指点点。
 
+### 2019-02-01
+公式的简单造型
+
+1.鉴于日本与韩国关系持续紧张，日本防卫省准备取消该计划。
+
+状语：鉴于日本与韩国关系持续紧张
+       Due to the continuous tension between Japan and Korea
+主语：日本防卫省
+       the Japannese Defense Ministry
+谓语：准备取消
+       is ready to cancel
+宾语：该计划
+      the plan
+
+2.鉴于日本与韩国关系持续紧张，日本防卫省准备取消“出云”号驱逐舰今年春季停靠韩国港口的计划。
+Due to the continuous tension between Japan and Korea, the Japanese Defense Ministry is ready to cancel the plan to stop at the Korean port this spring for “Chuyun” destroyer.
+
+状语：鉴于日本与韩国关系持续紧张
+      (内部倒序)Due to the continuous tension between Japan and Korea
+主语：日本防卫省
+      the Japannese Defense Ministry
+谓语：准备取消
+       is ready to cancel
+宾语：计划
+     the plan
+定语：出云”号驱逐舰今年春季停靠韩国港口的
+    (内部倒序) to stop at the Korean port this spring for "Chuyun" destroyer
+
+continuous /kən'tɪnjʊəs/
+adj. 连续的，持续的；继续的；连绵不断的
+
+destroyer /dɪ'strɒɪə/
+n. 驱逐舰；破坏者；起破坏作用的事物
 
 
+### 2019-02-11
+强调句：
 
+1.This time, Japanese noodle company Nissin has been accused of "whitewashing" the mixed-race Osaka.
 
+状语：This time
+      这一次
+主语：Japanese noodle company Nissin
+        日本面条公司日清
+谓语：has been of 
+      被指控
+宾语："whitewashing" the mixed-race Osaka
+        将混血的Osaka变成了白人
 
+2.This time, it is Japanese noodle company Nissin that has been accused of "whitewashing" the mixed-race Osaka in a manga drawing.
+这一次，日本面条公司日清被指控在一个漫画作品中将混血的Osaka变成了白人
+状语：This time
+     这一次
+强调结构前： it is
+             /
+主语：Japanese noodle company Nissin 
+        日本面条公司日清
+强调结构后：that
+           /
+谓语： has been accused of 
+        被指控
+定语：in a manga drawing
+         在一个漫画作品中
+宾语："whitewashing" the mixed-race Osaka  
+         将混血的Osaka变成了白人
 
+whitewash /'waɪtwɒʃ/
 
+n. 粉饰；白色涂料；石灰水
+vt. 掩饰；把…刷白
 
+manga /'mæŋgə/
+n. 日本漫画
 
+R词逻辑——分开
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+race，“种族；比赛”，不同种族是分开的，比赛中的跑道也是分开的。
+rail，“铁轨”，铁轨把大地分开。
+rank，“等级”，等级有高低之分。
+rip，“撕开、撕裂”。
+river，“河流”，河流将大地分开。
 
 
 
