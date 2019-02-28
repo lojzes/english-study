@@ -758,15 +758,60 @@ tip：给服务人员的小费。
 toll：道路、桥梁的通行费。
 tuition：与教育相关的费用，即学费。
 
+### 2019-01-22
+插入语
 
+1.We are looking into the root cause of this incident.
 
+翻译：
 
+主语：We
+     我们
+谓语：are looking into
+        正在调查
+定语：of this incident
+      此次事故的
+宾语：the root cause 
+       根本原因
 
+2."We are looking into the root cause of this incident both internally and externally with our vendors," it said.
+该公司称:“我们正与我们的供应商一起从内部和外部调查此次事故的根本原因。
+翻译：
 
+插入语：it said
+       该公司称
+主语：We
+     我们
+状语：both internally and externally with our vendors     
+       与我们的供应商一起从内部和外部
+谓语：are looking into
+       正在调查
+定语：of this incident 
+       此次事故的
+宾语： the root cause
+         根本原因
 
+internal /ɪn'tɜːn(ə)l/
+adj. 内部的；里面的；体内的；（机构）内部的
 
+external /ɪk'stɜːn(ə)l/
+adj. 外部的；表面的；[药] 外用的；外国的；外面的
 
+vendor /'vendə/
+n. 卖主；小贩；供应商；[贸易] 自动售货机
 
+今天来看一组意思相反的前缀：
+
+前缀in——往里；前缀ex——向外、出去
+
+internal：内部的
+external：外部的
+interior：内部；内部的
+exterior：外部；外部的
+include：包含
+exclude：排除
+import：进口
+export：出口
 
 
 
