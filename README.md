@@ -1280,10 +1280,45 @@ rank，“等级”，等级有高低之分。
 rip，“撕开、撕裂”。
 river，“河流”，河流将大地分开。
 
+### 2019-02-12
+ 宾语从句 + 同位语
+ 
+1.Nian was afraid of three things: fire, noise, and the color red.
 
+主语：Nian
+      年
+谓语：was afraid of
+       害怕
+宾语：three things
+     三样东西
+同位语： fire, noise, and the color red
+        火、噪音以及红色
+        
+2.But villagers learned that this half bull with a lion head was afraid of three things: fire, noise, and the color red.
+连接词：But
+       但是
+主语：villagers
+      村民
+谓语：learned
+      得知
+  
+宾从定：with a lion head 
+        顶着狮子头的
+宾从主：that this half bull
+         这个半牛动物
+宾从谓：was afraid of
+        害怕
+宾从宾：three things
+        三样东西
+宾从同位语：fire, noise, and the color red
+         火、噪音以及红色
+ 
+bull /bʊl/
 
-
-
+n. 公牛；看好股市者；粗壮如牛的人；胡说八道；印玺
+adj. 大型的；公牛似的；雄性的
+vt. 企图抬高证券价格；吓唬；强力实现
+vi. 价格上涨；走运；猛推；吹牛
 
 
 
