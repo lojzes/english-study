@@ -1641,28 +1641,66 @@ adj. 不管什么样的
 pron. 无论什么；诸如此类
 conj. 无论什么
 
+### 2019-02-22
+   同位语 + 双黄蛋
+   
+1.这是中国小吃江湖中的三大门派。   
+   
+主语：这
+     These
+谓语： 是
+      are
+宾语：三大门派
+       three major schools
+定语：中国小吃江湖中的
+      in the field of Chinese snacks
+2.沙县小吃、黄焖鸡米饭、兰州拉面，这是中国小吃江湖中的三大门派，势力遍布全国。虽然饮食是刚需，但随着人们选择的增加，传统小吃也不得不收敛往日的扩张势头。
+Shaxian snacks, chicken rice and Lanzhou noodles, these are three major schools in the field of Chinese snacks and their impact can be seen across the country. Although it is strongly demanded, with the increase of choices for people, traditional snacks have to reduce the speed of expansion in old days.
+
+句1同位语：沙县小吃、黄焖鸡米饭、兰州拉面
+           ShaXian snacks,chiken rice and LanZhou noodles
+句1主：这
+        these
+句1谓语： 是
+         are
+句1宾语：三大门派
+          往日的扩张
+句1定语：中国小吃江湖中的
+            in the field of Chinese snacks
+连接词：并且
+        and
+句2主：势力
+        their
+句2谓：能被看到
+       can be seen
+句2状：遍历全国
+        across the country
+句3状1：虽然饮食是刚需
+         Although it is strongly demanded
+句3状2：但随着人们选择的增加
+        with the increase of choice for people
+句3主：传统小吃 
+       traditional snacks
+句3谓：也不得不收敛
+       have to reduce
+句3宾：势头
+        the speed
+句3定：往日的扩张
+        of expansion in old days
 
 
+snack /snæk/
 
+n. 小吃，快餐；一份，部分
+vi. 吃快餐，吃点心
 
+impact /'ɪmpækt/
+n. 影响；效果；碰撞；冲击力
+vt. 挤入，压紧；撞击；对…产生影响
+vi. 影响；撞击；冲突；压紧（on，upon，with）
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+expansion /ɪk'spænʃən/
+n. 膨胀；阐述；扩张物
 
 
 
