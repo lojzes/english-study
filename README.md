@@ -1456,6 +1456,138 @@ insure /ɪn'ʃʊə/
 vt. 确保，保证；给…保险
 vi. 确保；投保
 
+### 2019-02-18
+
+同位语+谓语并列+双黄蛋+宾语从句
+
+1.Gerald Belz was found unconscious outside a campus building.
+
+主语：Gerald Belz
+      杰拉尔德贝儿兹
+状语：outside a campus building
+            在校园建筑外
+谓语：was found
+         被发现
+宾语：unconscious
+         失去知觉
+2.Gerald Belz, a freshman at the University of Iowa, was found unconscious outside a campus building and died later at a hospital. Investigators believe his death was related to the subzero temperatures in the Midwest.
+杰拉尔德·贝尔兹，爱荷华大学大一新生，在校园建筑外被发现失去知觉，后来在医院死亡。调查人员认为他的死与中西部的零下温度有关。
+句1主语：Gerald Belz
+          杰拉尔德贝儿兹
+句1同位语：a freshman at the University of Iowa
+           爱荷华大学大一学生
+句1状1：outside a campus building
+        在校园建筑外
+句1谓语： was found 
+           被发现
+句1宾语：unconscious
+          失去知觉
+句1连接词：and
+           并且
+句1状2： later at a hospital
+         后来在医院
+句1谓1：died
+         死亡
+句2主：Investigators 
+          调查人员
+句2谓：believe
+        认为
+句2宾： his death 
+         他的死
+句2宾从谓： was related to
+            与...有关
+句2宾从定：in the Midwest
+            中西部的
+句2宾从宾：the subzero temperatures
+             零下温度
+
+freshman /'freʃmən/
+n. 新手，生手；大学一年级学生
+
+unconscious /ʌn'kɒnʃəs/
+adj. 无意识的；失去知觉的；不省人事的；未发觉的
+
+subzero /'sʌbzɪəro/
+adj. 零下的；严寒的
+
+前缀sub——在…下面
+
+subzero： sub（在…下面）+zero（零度），“零下的”。
+subway： sub（在…下面）+way（道路），“地铁”。
+submarine： sub（在…下面）+marine（海洋的），名词“潜水艇”；形容词“水下的、海底的”。
+submerge： sub（在…下面）+merge（浸），“淹没、浸没，沉浸”。
+subject： sub（在…下面）+ject（扔），动词“使隶属，使顺从；征服”。
+submit： sub（在…下面）+mit（送），“呈送、递交、呈递”。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
