@@ -1608,14 +1608,38 @@ vi. 增值；涨价
 disappointment /dɪsə'pɒɪntm(ə)nt/
 n. 失望；沮丧
 
+### 2019-02-21
+插入语
+1.If your favourite player does not play, for whatever reason, you get your money back.
 
-
-
-
-
-
-
-
+状语1：If your favourite player does not play
+            如果你最爱的球员不参赛了
+插入语：for whatever reason
+        不管何种原因
+主语：you
+      你
+谓语：get
+      拿到
+状语2：back
+       回来
+宾语：your money 
+       你的钱
+2.If your favourite player does not play, you get your money back.
+状语1：If your favourite player does not play
+            如果你最爱的球员不参赛了
+主语：you
+      你
+谓语：get
+      拿到
+状语2：back
+       回来
+宾语：your money 
+       你的钱
+       
+whatever /wɒt'evə/
+adj. 不管什么样的
+pron. 无论什么；诸如此类
+conj. 无论什么
 
 
 
