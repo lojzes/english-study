@@ -813,6 +813,85 @@ exclude：排除
 import：进口
 export：出口
 
+### 2019-01-23
+同位语从句：
+
+1.Bollywood director Rajkumar Hirani has denied allegations.
+
+翻译：
+
+主语：Bollywood director Rajkumar Hirani
+        宝莱坞导演拉库马希拉尼
+谓语：has denied 
+      否认了
+宾语：allegations
+      指控
+
+2.Bollywood director Rajkumar Hirani has denied allegations that he sexually assaulted a colleague multiple times over a period of six months.
+宝莱坞导演拉库马·希拉尼否认了指控，即他在六个月内多次性侵一名同事。
+翻译：
+
+主语：Bollywood director Rajkumar Hirani
+       宝莱坞导演拉库马希拉尼
+谓语：has denied
+       否认了
+宾语：allegations
+       指控
+同从主：that he 
+         他
+同从状：multiple times over a period of six months
+        在6个月多次
+同从谓：sexually assaulted
+        性侵
+同从宾：a colleague  
+         一名同事
+
+allegation /ælɪ'geɪʃ(ə)n/
+n. 指控; 陈述，主张; 宣称; 陈词，陈述
+
+assault /ə'sɔːlt/
+n. 攻击；袭击
+vt. 攻击；袭击
+vi. 袭击；动武
+
+colleague /'kɒliːg/
+n. 同事，同僚
+
+multiple /'mʌltɪpl/
+adj. 多重的；多样的；许多的
+n. 倍数；[电] 并联
+
+词根multi——许多、多个
+
+multicoloured：multi（许多、多个）+ coloured（有色的），“有多种不同颜色的，杂色的”。
+multicultural：multi（许多、多个）+ cultural（文化的），“多元文化的，融合多种文化的”。
+multilateral：multi（许多、多个）+ lateral（侧面的，横向的），“多国的；多边的”。
+multimedia：multi（许多、多个）+ media（媒体），（adj.）“多媒体的”；（n.）“多媒体”。
+multimillionaire：multi（许多、多个）+ millionaire（百万富翁），“千万富翁，大富豪，巨富”。
+multiply：multi（许多、多个）+ ply（折叠），“乘；（使）大大增加，（使）倍增；繁殖”。同根形容词multiple，“包括/涉及多个人、物、事件等的；多的；多种的”。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
