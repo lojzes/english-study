@@ -1585,10 +1585,28 @@ legitimate，形容词“合法的、正当的”，动词“使合法”。
         失望
 
 2.Any sports fan will know, or at least appreciate, the disappointment of going to watch your team only to find that a top player has been left out.
+任何体育迷都会知道或者至少会理解去看你支持的队伍比赛却发现一个顶尖球员不参赛的失望。 
+主语：Any sports fan
+      任何体育迷
+谓语1：will know
+        会知道
+连接词：or
+        或者
+状语：at least
+       至少
+谓语2：appreciate
+        理解
+定语：of going to watch your team only to find that a top player has been left out
+        去看你支持的队伍比赛却发现一个顶尖球员不参赛
+宾语：the disappointment 
+         失望
+appreciate /əˈpriːʃieɪt/
 
+vt. 欣赏；感激；领会；鉴别
+vi. 增值；涨价
 
-
-
+disappointment /dɪsə'pɒɪntm(ə)nt/
+n. 失望；沮丧
 
 
 
