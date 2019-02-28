@@ -870,22 +870,99 @@ multimedia：multi（许多、多个）+ media（媒体），（adj.）“多媒
 multimillionaire：multi（许多、多个）+ millionaire（百万富翁），“千万富翁，大富豪，巨富”。
 multiply：multi（许多、多个）+ ply（折叠），“乘；（使）大大增加，（使）倍增；繁殖”。同根形容词multiple，“包括/涉及多个人、物、事件等的；多的；多种的”。
 
+### 2019-01-24
+谓语并列 + 双宾语
+
+1.Bacteria are feeding and multiplying in the severe smogs.
+
+翻译：
+
+主语：Bacteria
+       细菌
+状语： in the severe smogs
+       在严重的雾霾中
+谓语：are feeding and multiplying
+     正在滋生和繁殖
+2.
+标题：Bacteria live in China’s thick smogs and may be making it even worse
+
+翻译：
+
+主语：Bacteria
+      细菌
+状语：in China’s thick smogs
+        在中国的浓雾中
+谓语1：live  
+      存活
+连接词：and 
+        而且
+谓语2:may be making
+        可能使得
+宾语1：it
+       它
+宾语2：even worse
+        更糟糕
+
+正文：Bacteria are feeding and multiplying in the severe smogs that regularly blanket Chinese cities. The microorganisms could pose a threat in themselves and may also change the composition of the haze.
+细菌在中国的浓雾中存活，而且可能使得它更糟糕 正文：细菌正在经常笼罩着中国城市的严重雾霾中滋生和繁殖。微生物本身可能构成威胁，并且也可能改变雾霾的组成
+翻译：
+
+句1主语1：Bacteria
+       细菌
+句1状语1：in the severe smogs that regularly blanket Chinese cities
+       在经常笼罩着中国城市的严重雾霾中
+句1谓语1：are feeding and multiplying
+          正在滋生和繁殖
+句1主语2：The microorganisms
+         微生物
+句1状语2：in themselves 
+        本身
+句1谓语1：could pose
+        可能构成
+句1宾语2：a threat
+        一个威胁
+连接词：and
+      并且
+句2谓2：may also change
+        也可能改变
+句2定1：of the haze
+          雾霾的
+句2宾2：the composition
+         组成
+
+bacteria /bæk'tɪərɪə/
+
+n. [微] 细菌
 
 
+multiply /'mʌltɪplaɪ/
+vt. 乘；使增加；使繁殖；使相乘
+vi. 乘；繁殖；增加
 
+blanket /'blæŋkɪt/
+n. 毛毯，毯子；毯状物，覆盖层
+adj. 总括的，全体的；没有限制的
+vt. 覆盖，掩盖；用毯覆盖
 
+microorganism /maɪkrəʊ'ɔːg(ə)nɪz(ə)m/
+n. [微] 微生物；微小动植物
 
+haze /heɪz/
+n. 阴霾；薄雾；疑惑
+vt. 使变朦胧；使变糊涂
+vi. 变朦胧；变糊涂
 
+昨天的一词一痴中，我们学习了词根multi，表示许多、多个，比如：
 
+multiply：multi（许多、多个）+ ply（折叠），“乘；（使）大大增加，（使）倍增；繁殖”。
+multimedia：multi（许多、多个）+ media（媒体），（adj.）“多媒体的”；（n.）“多媒体”。
+今天，我们来学习词根micro——微小的，同样来自M词的数量逻辑，比如：
 
-
-
-
-
-
-
-
-
+microorganism：micro（微小的）+ organism（生物），“微生物”。
+microbiology：micro（微小的）+ biology（生物学），“微生物学”。
+micrometre：micro（微小的）+ metre（米），“微米”。
+microwave：micro（微小的）+ wave（波），“微波炉”。
+microscope：micro（微小的）+ scope（看），“显微镜”。
 
 
 
