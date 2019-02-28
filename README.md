@@ -1320,6 +1320,71 @@ adj. 大型的；公牛似的；雄性的
 vt. 企图抬高证券价格；吓唬；强力实现
 vi. 价格上涨；走运；猛推；吹牛
 
+### 2019-02-13
+双黄蛋 + 主语从句
+
+1.Lucky for you, you don’t need to defeat a ferocious beast.
+状语：Lucky for you
+      对你来说幸运的是
+主语：you
+       你
+谓语： don’t need to defeat 
+        不需要打败
+宾语：a ferocious beast
+      一只凶猛的野兽
+
+2.Lucky for you, you don’t need to defeat a ferocious beast to celebrate the Chinese New Year–all you need to do is get your red on.
+对你来说幸运的是，你不需要为了庆祝春节而打败一只凶猛的野兽。你所需要做的就是穿上你的红衣服
+（由破折号“-” 连接的双黄蛋）
+句1状语1：Lucky for you
+          对你来说幸运的是
+主语：you
+       你
+句1状2：to celebrate the Chinese New Year 
+        为了庆祝春节
+句1谓语：don’t need to defeat
+           不需要打败
+句1宾语：a ferocious beast
+          一只凶猛的野兽
+句2主：all you need to do
+        你所需要做的全部
+句2谓：is
+       就是
+句2宾：get your red on
+        穿上你的红衣服
+        
+defeat /dɪ'fiːt/
+
+vt. 击败，战胜；挫败；使…失败
+n. 失败的事实；击败的行为
+
+ferocious /fə'rəʊʃəs/
+adj. 残忍的；惊人的
+
+### 2019-02-14
+双黄蛋 + 宾语从句
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
