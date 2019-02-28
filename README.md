@@ -964,6 +964,95 @@ micrometre：micro（微小的）+ metre（米），“微米”。
 microwave：micro（微小的）+ wave（波），“微波炉”。
 microscope：micro（微小的）+ scope（看），“显微镜”。
 
+### 2019-01-25
+公式简单造型：
+
+1.明星道德风险将成为最大的地雷。
+
+翻译：
+
+主语：风险
+      The risk
+定语：明星道德
+      form the morallity of pop stars
+谓语：将成为
+     will become
+宾语：最大的地雷
+     the biggest minme
+2.吴秀波事件表明，明星道德风险将成为投资人的最大的地雷。
+
+状语1：吴秀波事件表明
+      Wu Xiubo's affair shows
+主语：风险
+      the risk
+定语：明星道德
+      form the morallity of pop stars
+谓语：将成为
+     will become
+宾语：最大的地雷
+     the biggest minme
+定语2： 投资人的
+    for investors
+
+affair /ə'feə/
+n. 事情；事务；私事；（尤指关系不长久的）风流韵事
+
+morality /məˈræləti/
+n. 道德；品行，美德
+
+mine /maɪn/
+
+n. 矿，矿藏；矿山，矿井；地雷，水雷
+vt. 开采，采掘；在…布雷
+vi. 开矿，采矿；埋设地雷
+pron. 我的
+
+### 2019-01-28
+双黄蛋 + 宾语从句
+
+1.He will not deliver his annual speech until after the government shutdown is over.
+
+翻译：
+
+主语：He
+     他
+状语：until after the government shutdown is over.
+       在政府停摆状态结束前
+谓语：will not deliver 
+        将不会发表
+宾语：his annual speech
+       他的年度演讲
+
+2.US President Donald Trump says he will not deliver his annual State of the Union speech until after the government shutdown is over.
+
+翻译：
+
+主语：US President Donald Trump 
+      美国总统唐纳德特朗普
+谓语：says
+      表示
+宾从主：he
+       他
+宾从状：until after the government shutdown is over
+          在政府停摆状态结束前
+宾从谓：will not deliver
+        将不会发表
+宾从宾：his annual State of the Union speech
+         他的年度演讲
+         
+deliver [dɪ'lɪvə]
+
+vt. 交付；发表；递送；释放；给予（打击）；给…接生
+vi. 实现；传送；履行；投递
+n. 投球
+
+shutdown ['ʃʌtdaʊn]
+n. 关机；停工；关门；停播
+
+
+
+
+
 
 
 
