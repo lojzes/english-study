@@ -1702,14 +1702,57 @@ vi. 影响；撞击；冲突；压紧（on，upon，with）
 expansion /ɪk'spænʃən/
 n. 膨胀；阐述；扩张物
 
+### 2019-02-25
 
+同位语 + 插入语
 
+1.The blaze broke out at night in a residential building.
 
+主语：The blaze
+       火灾
+状语： at night in a residential building
+         在一栋居民楼中在深夜
+谓语：broke out
+       爆发
+2.A fast-moving fire swept through a historic district of Bangladesh's capital, Dhaka, killing at least 78 people, officials say. The blaze broke out at night in a residential building that had flammable material stored on the ground floor.
+官方称，一场快速蔓延的大火席卷了孟加拉国首都达卡的一个古老街区，造成至少78人死亡。火灾在一幢地面存放着易燃材料的居民楼中在深夜爆发
+句1插入语：officials say
+           官方称
+句1主：A fast-moving fire
+       一场快速蔓延的大火
+句1谓语：swept
+         席卷了
+句1状语1：through a historic district of Bangladesh's capital
+            孟加拉国首都一个古老的老街区
+句1同位语：Dhaka
+           达卡
+句1状2：killing at least 78 people
+           造成至少78人死亡
+句2状： at night in a residential building that had flammable material stored on the ground floor
+           在一栋地面存放着易燃料的居民楼中在深夜
+句2主语： The blaze
+          爆发
+ 
+sweep /swiːp/
+vt. 扫除；猛拉；掸去
+vi. 扫，打扫；席卷；扫视；袭击
+n. 打扫，扫除；范围；全胜
 
+blaze /bleɪz/
+vt. 在树皮上刻路标；公开宣布
+n. 火焰，烈火；光辉；情感爆发
+vi. 燃烧；照耀，发光；激发
 
+residential /rezɪ'denʃ(ə)l/
+adj. 住宅的；与居住有关的
 
+flammable /'flæməb(ə)l/
+adj. 易燃的；可燃的；可燃性的
+n. 易燃物 
 
+表达伤亡人员，可用casualty，来自C词逻辑——包围、覆盖，即在事故中被圈进来的、在名单内的、未能逃出去的。
 
+casual，形容词，“随意的、随便的”，注意casualty的意思，并非名词随意、随便。
 
 
 
