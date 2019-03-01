@@ -1754,6 +1754,73 @@ n. 易燃物
 
 casual，形容词，“随意的、随便的”，注意casualty的意思，并非名词随意、随便。
 
+### 2019-02-26
+插入语
+1.The plants, animals, crops and micro-organisms are declining.
+    
+主语：The plants, animals, crops and micro-organisms
+         植物，动物，农作物和微生物
+谓语：are
+      正在
+宾语：declining
+      减少
+2.The plants, animals, crops and micro-organisms that are the bedrock of food production are in decline, according to a UN study.
+根据联合国的一项研究，作为食物生产基石的植物、动物、农作物和微生物正在减少。 
+插入语：according to a UN study
+         根据联合国的一项研究
+定语：that are the bedrock of food production
+        作为食物生产基石的
+主语：The plants, animals, crops and micro-organisms
+          植物，动物，农作物和微生物
+谓语：are
+       是
+宾语：in decline
+       处于减少中
+
+crop /krɒp/
+n. 产量；农作物；庄稼；平头
+vt. 种植；收割；修剪；剪短
+vi. 收获
+
+micro-organism /maɪkrəʊ'ɔːg(ə)nɪz(ə)m/
+n. [微] 微生物；微小动植物
+
+bedrock /'bedrɒk/
+n. [地质] 基岩；根底；基本原理
+
+decline /dɪ'klaɪn/
+n. 下降；衰退；斜面
+vi. 下降；衰落；谢绝
+vt. 谢绝；婉拒
+
+词根micro——微小的，来自M词的数量逻辑，比如：
+
+micro-organism：micro（微小的）+ organism（生物），“微生物”。
+microbiology：micro（微小的）+ biology（生物学），“微生物学”。
+micrometre：micro（微小的）+ metre（米），“微米”。
+microwave：micro（微小的）+ wave（波），“微波炉”。
+microscope：micro（微小的）+ scope（看），“显微镜”。
+
+前缀de——向下，比如：
+
+decline：de（向下）+cline（倾斜），“减少、降低”，既可作动词，也可作名词。
+deposit：de（向下）+posit（放置），动词“沉积；存入”，名词“沉积物；存款”。
+depress：de（向下）+press（压），“使沮丧、使忧郁”。
+describe：de（向下）+scribe（写），“描述、描写”。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
