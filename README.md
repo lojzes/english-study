@@ -1808,14 +1808,102 @@ deposit：de（向下）+posit（放置），动词“沉积；存入”，名�
 depress：de（向下）+press（压），“使沮丧、使忧郁”。
 describe：de（向下）+scribe（写），“描述、描写”。
 
+### 2019-02-27
 
+宾语从句
 
+1.Land use changes, pollution, and climate change are all causing biodiversity loss.
 
+主语：Land use changes, pollution, and climate change
+          土地使用的改变、污染和气候的改变
+谓语：are all causing
+          都正在导致
+宾语： biodiversity loss
+          生物多样性的流失
 
+2.The study says that land use changes, pollution, and climate change are all causing biodiversity loss.
+该研究指出土地使用的改变、污染和气候改变都正在导致生物多样性的流失
+主语：The study
+      该研究
+谓语：says
+      指出
+宾从主：that land use changes, pollution, and climate change
+          土地使用的改变、污染和气候的改变
+宾从谓： are all causing
+           都正在导致
+宾从宾：biodiversity loss
+          生物多样性的流失
 
+pollution /pə'luːʃ(ə)n/
+n. 污染；污染物
 
+biodiversity /,baɪə(ʊ)daɪ'vɜːsɪtɪ/
+n. 生物多样性
+词根verse——转动
 
+diverse： di（分开）+ verse（转动），“各种各样的、不同的”，名词是diversity，“多样性”。
+converse： con（共同）+ verse（转动），“谈话、交谈”。
+reverse： re（往回）+ verse（转动），“倒车、倒转、逆转”。
 
+universe： uni（单一）+ verse（转动），“宇宙、天地万物”。
+versatile： 到处都能转的开的，即“多才多艺的”。
+
+### 2019-02-28
+
+双黄蛋
+1.改革发展稳定的各项工作的实施离不开法治。
+   
+主语：实施
+     The practice
+定语：改革发展稳定的各项工作的
+      of our work about reform,development and stability
+谓语：离不开
+      can not be without
+宾语：法治
+    the rule of law
+
+2.改革开放40年的经验表明，改革发展稳定的各项工作的实施离不开法治，改革开放越深入越要重视法治。
+As it is shown by the 40 years’ experience of reform and opening, the practice of all our work about reform, development and stability can not be without the rule of law and when the reform and opening goes deeper, we need to emphasize more about the rule of law.
+状语1：改革开放40年的经验表明
+      As it is shown by the 40 year"s experience of reform and opening
+句1主：实施
+      the practice
+句1定：改革发展稳定的各项工作的
+        of our work about reform,development and stability
+句1谓：离不开
+        can not be without
+句1宾：法治
+        the rule of law
+连接词：并且 
+        and
+句2状：改革开放越深入
+         when the reform and opening goes deeper
+句2主：我们
+       we
+句2谓：越要重视
+        need to emphasize more about
+
+句2宾：
+   the rule of law
+
+reform /rɪ'fɔːm/
+n. 改革，改良；改正
+vt. 改革，革新；重新组成
+vi. 重组；改过
+
+stability /stə'bɪlɪtɪ/
+n. 稳定性；坚定，恒心
+
+emphasize /'emfəsaɪz/
+vt. 强调，着重
+
+词根st——稳定、不动
+
+stable，形容词，“稳定的”，名词stability，动词stabilize。
+stare，动词/名词，“凝视、盯着看”，即定定地看着不动。
+state，名词，“状况、状态”，即当时所处的一种比较稳定的模式。
+stagnant，形容词，“停滞不前的、不发展的”。
+still，形容词，“静止的、不动的”。
 
 
 
