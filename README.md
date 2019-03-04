@@ -1905,13 +1905,77 @@ state，名词，“状况、状态”，即当时所处的一种比较稳定的
 stagnant，形容词，“停滞不前的、不发展的”。
 still，形容词，“静止的、不动的”。
 
+### 2019-03-01
+插入语
 
+1.A meeting between US President Donald Trump and the North Korean leader Kim Jong-un has ended.
 
+定语：between US President Donald Trump and the North Korean leader Kim Jong-un
+      美国总统唐纳德特朗普和朝鲜领导人金正恩之间的
+主语：A meeting
+       一场会晤
+谓语：has ended
+      结束了
+ 
+2.A summit between US President Donald Trump and the North Korean leader Kim Jong-un has ended with no agreement, the White House announced.
 
+插入语：the White House announced
+         白宫宣布
+定语：between US President Donald Trump and the North Korean leader Kim Jong-un
+             美国总统唐纳德特朗普和朝鲜领导人金正恩之间的
+主语：A summit 
+      一场峰会
+状语：with no agreement
+        未达成任何协议
+谓语：has ended
+      结束了
 
+summit /'sʌmɪt/
+n. 顶点；最高级会议；最高阶层
+adj. 最高级的；政府首脑的
 
+announce /ə'naʊns/
+vt. 宣布；述说；预示；播报
+vi. 宣布参加竞选；当播音员
 
+2019-03-04
 
+双黄蛋+插入语
+1.Their respective teams look forward to meeting in the future.
+
+主语：Their respective teams 
+        他们各自的团队
+谓语： look forward to 
+        期待
+定语：in the future
+       在未来的
+宾语：meeting
+       会面
+2."No agreement was reached at this time, but their respective teams look forward to meeting in the future," spokeswoman Sarah Sanders said in a statement.
+
+插入语：spokeswoman Sarah Sanders said in a statement
+        发言人沙拉桑德在一份声明中说道
+句1主语：No agreement
+          没有一致
+句1状语：at this time
+            这次
+句1谓语： was reached
+          被达成
+连接词：but
+        但是
+句2主语：their respective teams
+             他们各自的团队
+句2主谓语：look forward to
+            期待
+句2定语：in the future
+            在未来的
+句2宾语：meeting
+         会面
+respective /rɪ'spektɪv/
+adj. 分别的，各自的
+
+spokeswoman /'spokswʊmən/
+n. 女代言人，女发言人
 
 
 
