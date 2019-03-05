@@ -1977,5 +1977,61 @@ adj. 分别的，各自的
 spokeswoman /'spokswʊmən/
 n. 女代言人，女发言人
 
+### 2019-03-05
+公式的简单造型
+
+1.A summit ended with no agreement.
+
+主语：A summit
+      一场峰会
+状语：with no agreement
+        未达成任何协议
+谓语：ended 
+      结束了
+2.A summit between US President Donald Trump and the North Korean leader Kim Jong-un ended with no agreement after the US refused North Korean demands for sanctions relief.
+
+定语：between US President Donald Trump and the North Korean leader Kim Jong-un 
+       美国总统唐纳德特朗普和朝鲜领导人金正恩之间的
+主语：A summit
+       一场峰会
+状语：with no agreement after the US refused North Korean demands for sanctions relief
+         在美国拒绝了朝鲜减轻制裁的要求之后未达成任何协议
+谓语：ended
+      结束了
+      
+summit /'sʌmɪt/
+n. 顶点；最高级会议；最高阶层
+adj. 最高级的；政府首脑的
+
+sanction /'sæŋ(k)ʃ(ə)n/
+n. 制裁，处罚；认可；支持
+vt. 制裁，处罚；批准；鼓励
+
+relief /rɪ'liːf/
+n. 救济；减轻，解除；安慰；浮雕
+
+词根fuse——流动
+refuse： re（往回）+fuse（流动），“拒绝”。
+confuse： con（共同、一起）+fuse（流动），各种调料全部倒进去，即“使混乱、使困惑”。
+effuse： e（向外、出去）+fuse（流动），往外流，即“流出、涌出”。
+profuse： pro（向前）+fuse（流动），流到前面了、溢出来了，即“大量的、丰富的”。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
