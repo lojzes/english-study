@@ -2046,9 +2046,23 @@ profuse： pro（向前）+fuse（流动），流到前面了、溢出来了，�
 同从宾：an agreement 
           一项协议
 
+expectation /ekspek'teɪʃ(ə)n/
+n. 期待；预期；指望
 
+thorny /'θɔːnɪ/
+adj. 多刺的；痛苦的；令人苦恼的
 
+nuclear /'njuːklɪə/
+adj. 原子能的；[细胞] 细胞核的；中心的；原子核的
 
+disarmament /dɪs'ɑːməm(ə)nt/
+n. 裁军
+
+词根spect——看
+expect： ex（向外）+ spect（看），“期望”，名词是expectation。
+inspect： in（往里）+ spect（看），“检查”，名词是inspection。
+prospect： pro（往前）+ spect（看），“前景、预期”。
+respect： re（向后）+ spect（看），“尊敬、尊重”。
 
 
 
