@@ -2016,15 +2016,35 @@ confuse： con（共同、一起）+fuse（流动），各种调料全部倒进�
 effuse： e（向外、出去）+fuse（流动），往外流，即“流出、涌出”。
 profuse： pro（向前）+fuse（流动），流到前面了、溢出来了，即“大量的、丰富的”。
 
+### 2019-03-06 
+同位语从句：
+1.They would announce an agreement on the thorny issue of nuclear disarmament.
 
-
-
-
-
-
-
-
-
+主语：They
+      他们
+谓语：would announce
+       将宣布
+定语：on the thorny issue of nuclear disarmament
+      就核裁军这一棘手的问题
+宾语：an agreement
+      一项协议
+      
+2.There had been some expectation that the pair would announce an agreement on the thorny issue of nuclear disarmament.
+有一些预期，两位领导人将宣布一项就核裁军这一棘手的问题的协议
+无主结构： There
+           /
+谓语：had been  
+       有
+宾语：some expectation
+         一些预期
+同从主：that the pair
+         两位领导人
+同从谓：would announce
+        将宣布
+同从定：on the thorny issue of nuclear disarmament
+         就核裁军这一棘手的问题
+同从宾：an agreement 
+          一项协议
 
 
 
